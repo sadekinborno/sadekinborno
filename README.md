@@ -17,7 +17,7 @@ Welcome to my corner of GitHub! I’m a game developer with a passion for creati
 <p align="center">
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blueprint-0E1128?style=for-the-badge&logo=blueprint&logoColor=white"/>
 </p>
 
 #### Tools & Platforms
@@ -72,7 +72,8 @@ Here’s what I’m currently learning and what I’ve already mastered in game 
 ### 📬 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/sadekin-borno-049272266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sadekinborno07@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+ <a href="mailto:sadekinborno07@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
    <a href="https://www.facebook.com/rockstar.oxygen.tf/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
