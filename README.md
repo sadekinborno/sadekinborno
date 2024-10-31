@@ -52,29 +52,90 @@ NULL
 
 ### 🎯 Learning Goals
 
-Here’s what I’m currently learning and what I’ve already mastered in game development!               
+Here’s what I’m currently learning and what I’ve already mastered in game development!  
 
-| Topic                      | Status           |
-|----------------------------|------------------|
-| **C++ Fundamentals**       | 🕒 Yet to Start  |
-| **Blueprint Scripting**    | 🔄 In Progress   |
-| **3D Modeling in Blender** | 🔄 In Progress   |
-| **Level Design**           | ✔️ Completed     |      
-| **AI for NPC Behavior**    | 🕒 Yet to Start  |
-| **Multiplayer Networking** | 🕒 Yet to Start  |
-| **Procedural Generation**  | 🕒 Yet to Start  |
-| **Physics-Based Animation**| 🔄 In Progress   |
+<div style="display: flex; justify-content: space-between;">
 
+<!-- Game Development Goals Table -->
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><b>C++ Fundamentals</b></td>
+    <td>🕒 Yet to Start</td>
+  </tr>
+  <tr>
+    <td><b>Blueprint Scripting</b></td>
+    <td>🔄 In Progress</td>
+  </tr>
+  <tr>
+    <td><b>3D Modeling in Blender</b></td>
+    <td>🔄 In Progress</td>
+  </tr>
+  <tr>
+    <td><b>Level Design</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td><b>AI for NPC Behavior</b></td>
+    <td>🕒 Yet to Start</td>
+  </tr>
+  <tr>
+    <td><b>Multiplayer Networking</b></td>
+    <td>🕒 Yet to Start</td>
+  </tr>
+  <tr>
+    <td><b>Procedural Generation</b></td>
+    <td>🕒 Yet to Start</td>
+  </tr>
+  <tr>
+    <td><b>Physics-Based Animation</b></td>
+    <td>🔄 In Progress</td>
+  </tr>
+</table>
 
- 
- | Academic Topic                  | Language     | Status            |
- |---------------------------------|--------------|-------------------|
- | **Structured Programming**      | **C**        | ✔️ Completed      |
- | **Opject Oriented Programming** | **Java**     | ✔️ Completed      |
- | **Advanced OOP**                | **Java**     | 🕒 Yet to Start   |
- | **DS & A**                      | **C++**      | ✔️ Completed      |
- | **Artificial Intelligence**     | **Python**   | 🕒 Yet to Start   |
- | **Database Management**         | **SQL, PHP** | 🕒 Yet to Start   |
+<!-- Academic Goals Table -->
+<table>
+  <tr>
+    <th>Academic Topic</th>
+    <th>Language</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><b>Structured Programming</b></td>
+    <td><b>C</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td><b>Object Oriented Programming</b></td>
+    <td><b>Java</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td><b>Advanced OOP</b></td>
+    <td><b>Java</b></td>
+    <td>🕒 Yet to Start</td>
+  </tr>
+  <tr>
+    <td><b>DS & A</b></td>
+    <td><b>C++</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td><b>Artificial Intelligence</b></td>
+    <td><b>Python</b></td>
+    <td>🕒 Yet to Start</td>
+  </tr>
+  <tr>
+    <td><b>Database Management</b></td>
+    <td><b>SQL, PHP</b></td>
+    <td>🕒 Yet to Start</td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
