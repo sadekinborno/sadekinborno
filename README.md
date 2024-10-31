@@ -16,9 +16,13 @@ Welcome to my corner of GitHub! I’m a game developer with a passion for creati
 #### Languages & Game Development
 <p align="center">
   <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blueprint-0E1128?style=for-the-badge&logo=blueprint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pygame-3766AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
 
 #### Tools & Platforms
 <p align="center">
