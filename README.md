@@ -54,16 +54,16 @@ NULL
 
 Here’s what I’m currently learning and what I’ve already mastered in game development!               
 
-| Topic                         | Tool             | Status            |
-|-------------------------------|------------------|-------------------|
-| **C++ Fundamentals**          | **VS Code**      | 🕒 Yet to Start   |
-| **Blueprint Scripting**       |**Unreal Engine** | 🔄 In Progress    |
-| **3D Modeling**               | **Blender**      | 🔄 In Progress    |
-| **Level Design**              |**Unreal Engine** | ✔️ Completed      |      
-| **AI for NPC Behavior**       |**Unreal Engine** | 🕒 Yet to Start   |
-| **Multiplayer Networking**    |**Unreal Engine** | 🕒 Yet to Start   |
-| **Procedural Generation**     |**Unreal Engine** | 🕒 Yet to Start   |
-| **Physics-Based Animation**   |**Unreal Engine** | 🔄 In Progress    |
+| Topic                           | Tool             | Status            |
+|---------------------------------|------------------|-------------------|
+| **C++ Fundamentals**            | **VS Code**      | 🕒 Yet to Start   |
+| **Blueprint Scripting**         |**Unreal Engine** | 🔄 In Progress    |
+| **3D Modeling**                 | **Blender**      | 🔄 In Progress    |
+| **Level Design**                |**Unreal Engine** | ✔️ Completed      |      
+| **AI for NPC Behavior**         |**Unreal Engine** | 🕒 Yet to Start   |
+| **Multiplayer Networking**      |**Unreal Engine** | 🕒 Yet to Start   |
+| **Procedural Generation**       |**Unreal Engine** | 🕒 Yet to Start   |
+| **Physics-Based Animation**     |**Unreal Engine** | 🔄 In Progress    |
 
 
  
