@@ -42,9 +42,10 @@ NULL
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadekinborno&show_icons=true&theme=chartreuse-dark" alt="Your GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadekinborno&theme=chartreuse-dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sadekinborno&show_icons=true&theme=chartreuse-dark" alt="Your GitHub stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadekinborno&theme=chartreuse-dark" width="49%"/>
 </p>
+
 
 ---
 
