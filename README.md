@@ -77,7 +77,7 @@ Here’s what I’m currently learning and what I’ve already mastered in game 
    <a href="https://www.facebook.com/rockstar.oxygen.tf/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.youtube.com/channel/@matteblackstudios7" target="_blank">
+  <a href="https://www.youtube.com/@matteblackstudios7" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
