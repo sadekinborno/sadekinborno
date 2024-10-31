@@ -54,27 +54,16 @@ NULL
 
 Here’s what I’m currently learning and what I’ve already mastered in game development!               
 
-| Topic                           | Tool             | Status            |
-|---------------------------------|------------------|-------------------|
-| **C++ Fundamentals**            | **VS Code**      | 🕒 Yet to Start   |
-| **Blueprint Scripting**         |**Unreal Engine** | 🔄 In Progress    |
-| **3D Modeling**                 | **Blender**      | 🔄 In Progress    |
-| **Level Design**                |**Unreal Engine** | ✔️ Completed      |      
-| **AI for NPC Behavior**         |**Unreal Engine** | 🕒 Yet to Start   |
-| **Multiplayer Networking**      |**Unreal Engine** | 🕒 Yet to Start   |
-| **Procedural Generation**       |**Unreal Engine** | 🕒 Yet to Start   |
-| **Physics-Based Animation**     |**Unreal Engine** | 🔄 In Progress    |
-
-
- 
- | Academic Topic                  | Language      | Status             |
- |---------------------------------|---------------|--------------------|
- | **Structured Programming**      | **C**         | ✔️ Completed       |
- | **Opject Oriented Programming** | **Java**      | ✔️ Completed       |
- | **Advanced OOP**                | **Java**      | 🕒 Yet to Start    |
- | **DS & A**                      | **C++**       | ✔️ Completed       |
- | **Artificial Intelligence**     | **Python**    | 🕒 Yet to Start    |
- | **Database Management**         | **SQL, PHP**  | 🕒 Yet to Start    |
+| Topic                      | Status           |
+|----------------------------|------------------|
+| **C++ Fundamentals**       | 🕒 Yet to Start  |
+| **Blueprint Scripting**    | 🔄 In Progress   |
+| **3D Modeling in Blender** | 🔄 In Progress   |
+| **Level Design**           | ✔️ Completed     |      
+| **AI for NPC Behavior**    | 🕒 Yet to Start  |
+| **Multiplayer Networking** | 🕒 Yet to Start  |
+| **Procedural Generation**  | 🕒 Yet to Start  |
+| **Physics-Based Animation**| 🔄 In Progress   |
 
   
 ---
