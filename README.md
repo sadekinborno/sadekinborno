@@ -130,10 +130,10 @@ A safety application designed to help locate and track individuals, built with r
 
 ---
 
-### 🎮 **WhatsUp PyGame Runner**
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadekinborno/WhatsUp-PyGame)
-[![Stars](https://img.shields.io/github/stars/sadekinborno/WhatsUp-PyGame?style=for-the-badge)](https://github.com/sadekinborno/WhatsUp-PyGame/stargazers)
-[![Language](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/sadekinborno/WhatsUp-PyGame)
+### 🎮 **WhatIsUp PyGame Runner**
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sadekinborno/WhatIsUp-PyGame)
+[![Stars](https://img.shields.io/github/stars/sadekinborno/WhatIsUp-PyGame?style=for-the-badge)](https://github.com/sadekinborno/WhatIsUp-PyGame/stargazers)
+[![Language](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/sadekinborno/WhatIsUp-PyGame)
 
 *Python • PyGame • Game Development*
 
