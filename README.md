@@ -24,14 +24,12 @@
 
 ## 🎯 **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔥 **Full-Stack Software Developer** passionate about creating scalable web applications
 - 🤖 **AI/ML Enthusiast** integrating intelligent solutions into modern applications  
 - 🎮 **Game Development** as a creative side learning journey
-- 🌱 Currently mastering **Advanced AI/ML frameworks** and **Cloud Architecture**
 - 💡 Always exploring new technologies and pushing the boundaries of what's possible
-- 🎯 Goal: Building AI-powered applications that make a real-world impact
 
 <br clear="right"/>
 
@@ -53,26 +51,18 @@
 
 ### **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 ### **Databases & Cloud**
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ### **Game Development (Side Learning)**
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
 ![Blueprint](https://img.shields.io/badge/Blueprint-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
@@ -151,18 +141,17 @@ A Python-based language translation tool implementing basic NLP concepts for mul
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
 
 ---
 
 
 ## 💡 **What I'm Working On**
 
-<img align="right" alt="AI" width="300" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" alt="AI" width="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 - 🤖 **AI-Powered Web Applications** with modern frameworks
 - 🌐 **Full-Stack Solutions** for real-world problems  
-- 📊 **Data-Driven Applications** with ML integration
 - 🎮 **Interactive Experiences** through game development
 - 🔬 **Experimental AI Projects** pushing creative boundaries
 
@@ -196,8 +185,6 @@ A Python-based language translation tool implementing basic NLP concepts for mul
 <div align="center">
 
 ### 🌟 **"Code is like humor. When you have to explain it, it's bad." - Cory House**
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
 
