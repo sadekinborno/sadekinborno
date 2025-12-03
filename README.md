@@ -74,18 +74,47 @@
 
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sadekinborno&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sadekinborno&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadekinborno&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=sadekinborno&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Contribution Stats"/>
+
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sadekinborno&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadekinborno&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadekinborno&theme=tokyonight" alt="Profile Summary"/>
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadekinborno&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadekinborno&theme=tokyonight" alt="Repos per Language"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadekinborno&theme=tokyonight" alt="Most Commit Language"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadekinborno&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadekinborno&theme=tokyonight" alt="Stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadekinborno&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
+
+</div>
+
+---
+
+## 🏆 **GitHub Trophies**
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sadekinborno&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📈 **Contribution Graph**
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sadekinborno&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 </div>
 
@@ -141,10 +170,9 @@ A Python-based language translation tool implementing basic NLP concepts for mul
 
 <br>
 
-
+</div>
 
 ---
-
 
 ## 💡 **What I'm Working On**
 
@@ -187,5 +215,7 @@ A Python-based language translation tool implementing basic NLP concepts for mul
 ### 🌟 **"Code is like humor. When you have to explain it, it's bad." - Cory House**
 
 **Thanks for visiting! Let's build something amazing together! 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=sadekinborno&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
