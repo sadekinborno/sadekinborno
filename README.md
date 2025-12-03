@@ -74,27 +74,60 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sadekinborno&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sadekinborno&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+<table>
+<tr>
+<td width="50%" align="center">
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sadekinborno&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&cache_seconds=86400" alt="GitHub Stats"/>
+  
+</td>
+<td width="50%" align="center">
+  
+  <img src="https://streak-stats.demolab.com/?user=sadekinborno&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+  
+</td>
+</tr>
+</table>
 
-<br>
+<table>
+<tr>
+<td width="100%" align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadekinborno&theme=tokyonight" alt="Profile Summary"/>
+  
+</td>
+</tr>
+</table>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadekinborno&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=sadekinborno&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Contribution Stats"/>
+<table>
+<tr>
+<td width="50%" align="center">
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadekinborno&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  
+</td>
+<td width="50%" align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadekinborno&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
+  
+</td>
+</tr>
+</table>
 
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadekinborno&theme=tokyonight" alt="Profile Summary"/>
-
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadekinborno&theme=tokyonight" alt="Repos per Language"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadekinborno&theme=tokyonight" alt="Most Commit Language"/>
-
-<br>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadekinborno&theme=tokyonight" alt="Stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadekinborno&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
+<table>
+<tr>
+<td width="50%" align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadekinborno&theme=tokyonight" alt="Repos per Language"/>
+  
+</td>
+<td width="50%" align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sadekinborno&theme=tokyonight" alt="Most Commit Language"/>
+  
+</td>
+</tr>
+</table>
 
 </div>
 
