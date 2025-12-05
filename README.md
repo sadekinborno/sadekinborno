@@ -78,11 +78,6 @@
 <tr>
 <td width="50%" align="center">
   
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sadekinborno&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&cache_seconds=86400" alt="GitHub Stats"/>
-  
-</td>
-<td width="50%" align="center">
-  
   <img src="https://streak-stats.demolab.com/?user=sadekinborno&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
   
 </td>
@@ -101,11 +96,7 @@
 
 <table>
 <tr>
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sadekinborno&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
-  
-</td>
+
 <td width="50%" align="center">
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sadekinborno&theme=tokyonight&utcOffset=6" alt="Productive Time"/>
