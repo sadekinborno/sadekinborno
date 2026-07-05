@@ -60,7 +60,7 @@ A JARVIS-style AI assistant built from scratch - voice interaction, memory, auto
 
 ## Projects
 
-### [TheAwesomeUIU](https://github.com/sadekinborno/TheAwesomeUIU)
+### [TheAwesomeUIU](https://github.com/sadekinborno/Awesome-UIU)
 A student-driven platform centralizing tools and resources for UIU students - CG Calculator, Goal Planner, Teacher Reviews, Academic Calendar, Exam Seat Planner, Question Bank, and more.
 
 ### [FindMe](https://github.com/sadekinborno/FindMe---DBMS-Project)
