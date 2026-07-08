@@ -9,15 +9,11 @@ Building intelligent software through applied AI research, backend engineering, 
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sadekin-borno-049272266/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://sadekin.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
-<a href="mailto:sadekinborno07@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/sadekinborno">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
+
+
 </p>
 
 ---
@@ -91,8 +87,20 @@ A link hub for movies, shows, anime, sports, and games - plus multiplayer party 
 
 ---
 
-## GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadekinborno&layout=compact&theme=default&hide_border=true&langs_count=6"/>
+<a href="mailto:sadekinborno07@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/rockstar.oxygen.tf">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+</a>
+  <a href="https://github.com/sadekinborno">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+  <a href="https://www.linkedin.com/in/sadekin-borno-049272266/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
+
+---
